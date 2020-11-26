@@ -1,1 +1,1 @@
-d
+Obtenção de dados do twitter
