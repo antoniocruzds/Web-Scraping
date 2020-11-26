@@ -1,1 +1,1 @@
-Obtenção de dados do twitter
+Obtenção de dados do twitter;
